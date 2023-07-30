@@ -1,0 +1,12 @@
+body {
+	margin: 0 auto;
+	max-width: 1000px;
+	background-color: azure;
+	font-size: 25px;
+	padding-top: 50px;
+}
+
+
+.error {
+	border: 1px solid red;
+  }
